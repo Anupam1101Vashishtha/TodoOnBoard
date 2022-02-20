@@ -1,0 +1,9 @@
+{
+
+    "msbuild": {
+
+        "useBundledOnly": true
+
+    }
+
+}
